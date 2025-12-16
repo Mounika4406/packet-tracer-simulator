@@ -33,7 +33,8 @@ Node.js (version 18 or higher)
 npm
 
 Installation & Run
-git clone <YOUR_GITHUB_REPO_LINK>
+git clone  https://github.com/Mounika4406/packet-tracer-simulator.git
+
 cd packet-tracer
 npm install
 npm start
