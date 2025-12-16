@@ -1,0 +1,4 @@
+{
+  "example.com": { "type": "A", "value": "10.0.0.5" },
+  "www.example.com": { "type": "CNAME", "value": "example.com" }
+}
