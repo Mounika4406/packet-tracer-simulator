@@ -110,3 +110,4 @@ No route to host error
 
 These screenshots show the simulator working as expected for different network conditions.
 “To switch scenarios, copy the configuration files from the desired scenario folder into the configs/ directory before running the application.”
+The application runs locally using Node.js. Docker was not required as part of the assignment.”
